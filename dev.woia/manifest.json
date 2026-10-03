@@ -1,0 +1,24 @@
+{
+  "schema": "dev.woia.provider-manifest/v1",
+  "version": "0.5.0",
+  "authoring_profile": "thin",
+  "department": "software",
+  "capability": "security",
+  "skill": "security",
+  "source_lineage": {
+    "repository": "Turpial-AI-Academy/security-agent-plugin",
+    "version": "1.0.1",
+    "commit": "58cd07d07bb2b67e7b532304e932c054a314a448"
+  },
+  "migrated_portable_paths": [
+    "skills/security/SKILL.md",
+    "skills/security/assets/README.md",
+    "skills/security/assets/risk-acceptance.template.md",
+    "skills/security/assets/security-evidence.template.md",
+    "skills/security/references/FINDINGS_AND_RISK_ACCEPTANCE.md",
+    "skills/security/references/README.md",
+    "skills/security/references/SECURITY_REVIEW_METHOD.md",
+    "skills/security/references/THREAT_MODEL.md",
+    "skills/security/references/VALIDATION_PLAYBOOK.md"
+  ]
+}
