@@ -5,7 +5,7 @@ license: MIT
 compatibility: Works with software repositories across languages and deployment styles; security validation depends on the target system's actual code, configuration, data, infrastructure, dependencies, and available test/scanner tooling.
 metadata:
   author: Turpial AI Academy
-  version: "0.5.0"
+  version: "0.5.1"
 ---
 
 # security
