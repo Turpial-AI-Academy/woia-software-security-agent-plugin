@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "woia-software-security",
-  "version": "0.5.1",
+  "version": "0.5.6",
   "description": "Audits software release candidates for security risks and produces candidate-bound security evidence.",
   "author": {
     "name": "Turpial AI Academy",
